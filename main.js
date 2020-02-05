@@ -1,2 +1,2 @@
 var num = 50
-vat truth = "hello world";
+vat truth = "hello flat earth";
